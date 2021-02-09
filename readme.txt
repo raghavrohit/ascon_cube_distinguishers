@@ -5,7 +5,8 @@
    Volume 2021, Issue I.   
 
    Contents:
-   -- C code (taken from https://ascon.iaik.tugraz.at/resources.html)
+   -- C code (taken from https://ascon.iaik.tugraz.at/resources.html) for verification 
+      of distinguishers
    -- Ascon Sage code
    -- Division property models containing:
       1) Ascon Sbox modeling
